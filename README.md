@@ -10,11 +10,6 @@ User-Friendly Interface: The app provides an intuitive interface with a streamli
 Custom Styling: The app includes visually appealing custom CSS styling for an enhanced user experience.
 Installation
 To install and run the app locally, follow these steps:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/image-to-speech-converter.git
 Install the required dependencies:
 bash
 Copy code
